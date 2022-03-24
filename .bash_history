@@ -52,3 +52,8 @@ git remote add origin https://github.com/nehish17/events-app-internal.git
 git push -u origin main
 git config --global --list
 git init
+git add .
+git commit -m "Initial Commit"
+git remote add origin https://github.com/nehish17/events-app-internal.git
+git push -u origin main
+git init
